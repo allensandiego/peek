@@ -1,0 +1,5 @@
+theme: jekyll-theme-primer
+title: Allen Sandiego
+description: A page for all my github projects.
+github: 
+  is_project_page: false

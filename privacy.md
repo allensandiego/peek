@@ -1,11 +1,13 @@
+---
+title: Privacy Policy
+---
 Privacy Policy
-==============
 
 Last revised on February 7, 2019.
 
 ### The Gist
 
-[COMPANY] will collect certain non-personally identify information about you as you use our sites. We may use this data to better understand our users. We can also publish this data, but the data will be about a large group of users, not individuals.
+Peek will collect certain non-personally identify information about you as you use our sites. We may use this data to better understand our users. We can also publish this data, but the data will be about a large group of users, not individuals.
 
 We will also ask you to provide personal information, but you'll always be able to opt out. If you give us personal information, we won't do anything evil with it.
 
@@ -17,13 +19,13 @@ If you have question about this Privacy Policy, please contact us at support@all
 
 ### Visitors
 
-Like most website operators, [COMPANY] collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. [COMPANY]'s purpose in collecting non-personally identifying information is to better understand how [COMPANY]'s visitors use its website. From time to time, [COMPANY] may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Like most website operators, Peek collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Peek's purpose in collecting non-personally identifying information is to better understand how Peek's visitors use its website. From time to time, Peek may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-[COMPANY] also collects potentially personally-identifying information like Internet Protocol (IP) addresses. [COMPANY] does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. We may also collect and use IP addresses to block users who violated our Terms of Service.
+Peek also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Peek does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. We may also collect and use IP addresses to block users who violated our Terms of Service.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to [COMPANY]'s websites choose to interact with [COMPANY] in ways that require [COMPANY] to gather personally-identifying information. The amount and type of information that [COMPANY] gathers depends on the nature of the interaction. [COMPANY] collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with [COMPANY]. [COMPANY] does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain Service-related activities.
+Certain visitors to Peek's websites choose to interact with Peek in ways that require Peek to gather personally-identifying information. The amount and type of information that Peek gathers depends on the nature of the interaction. Peek collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Peek. Peek does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain Service-related activities.
 
 Additionally, some interactions, such as posting a comment, may ask for optional personal information. For instance, when posting a comment, may provide a website that will be displayed along with a user's name when the comment is displayed. Supplying such personal information is completely optional and is only displayed for the benefit and the convenience of the user.
 
