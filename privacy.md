@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 ---
-Privacy Policy
+# Privacy Policy
 
 Last revised on February 7, 2019.
 
