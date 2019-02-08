@@ -1,5 +1,4 @@
-theme: jekyll-theme-primer
-title: Allen Sandiego
-description: A page for all my github projects.
+title: Peek
+description: An android client app for your Shinobi Server.
 github: 
   is_project_page: false
