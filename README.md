@@ -11,11 +11,11 @@ Features:
 Screens:
 
 <table style="border: 0px;">
-  <tr>
-    <td><img src="https://lh3.googleusercontent.com/tKnkuRQxzTS3qTI0NPodN-kFaHdymyET8KlXXejFpWefWFgbstg99qaPK2mF0zyZK4cg=w1262-h563-rw" /></td>
-    <td><img src="https://lh3.googleusercontent.com/qJifUSgxg4Nv5wjFbmglrN2_kIcu-rfDX0iOobAlYuGxREBoLwGWynNVezEIaqQ8znao=w1262-h563-rw" /></td>
-    <td><img src="https://lh3.googleusercontent.com/ZWO7LOwJFGQkjzox0_0j7eHjOyKhnFGXmFR2TdoJA4CPNXNY1XEPnoE5xzei9DgHeBY=w1262-h563-rw" /></td>
-    <td><img src="https://lh3.googleusercontent.com/i4FnULhBPtr_yYQAiMSP26WHgKBMSDaQ-2eqIQm37p8jCoiWZM0RQGME_6z_M75fzjU=w1262-h563-rw" /></td>
+  <tr style="border: 0px;">
+    <td style="border: 0px;"><img src="https://lh3.googleusercontent.com/tKnkuRQxzTS3qTI0NPodN-kFaHdymyET8KlXXejFpWefWFgbstg99qaPK2mF0zyZK4cg=w1262-h563-rw" /></td>
+    <td style="border: 0px;"><img src="https://lh3.googleusercontent.com/qJifUSgxg4Nv5wjFbmglrN2_kIcu-rfDX0iOobAlYuGxREBoLwGWynNVezEIaqQ8znao=w1262-h563-rw" /></td>
+    <td style="border: 0px;"><img src="https://lh3.googleusercontent.com/ZWO7LOwJFGQkjzox0_0j7eHjOyKhnFGXmFR2TdoJA4CPNXNY1XEPnoE5xzei9DgHeBY=w1262-h563-rw" /></td>
+    <td style="border: 0px;"><img src="https://lh3.googleusercontent.com/i4FnULhBPtr_yYQAiMSP26WHgKBMSDaQ-2eqIQm37p8jCoiWZM0RQGME_6z_M75fzjU=w1262-h563-rw" /></td>
   </tr>
 </table>
 
