@@ -10,7 +10,7 @@ Features:
 
 Screens:
 
-<table border="0">
+<table style="border: 0px;">
   <tr>
     <td><img width="25%" height="25%" src="https://lh3.googleusercontent.com/tKnkuRQxzTS3qTI0NPodN-kFaHdymyET8KlXXejFpWefWFgbstg99qaPK2mF0zyZK4cg=w1262-h563-rw" /></td>
     <td><img width="25%" height="25%" src="https://lh3.googleusercontent.com/qJifUSgxg4Nv5wjFbmglrN2_kIcu-rfDX0iOobAlYuGxREBoLwGWynNVezEIaqQ8znao=w1262-h563-rw" /></td>
@@ -19,6 +19,6 @@ Screens:
   </tr>
 </table>
 
-# Available on
+### Available on
 
 <a href='https://play.google.com/store/apps/details?id=com.allensandiego.peek&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="25%" height="25%" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
